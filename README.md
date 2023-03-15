@@ -61,7 +61,7 @@ After running project you can check documentation on http://localhost/docs.
 
 
 #### visit http://localhost/api/7timer-latlon/?latitude=51.283&longitude=6.083 (sample endpoint)
-![SampleLatLonResponse](/src/assests/SampleLatLonResponse.PNG?raw=true"Weather Forecast Using Latitude & Longitude")
+![SampleLatLonResponse](https://user-images.githubusercontent.com/54988134/225172492-4cd548a8-339f-4918-b627-29deb47ed3fb.PNG)
 
 #### visit http://localhost/api/7timer-postcode/?postcode=04006 (sample endpoint)
-![SamplePostCodeResponse](./src/assests/SampleLatLonResponse.PNG?raw=true"Weather Forecast Using PostCode")
+![SamplePostCodeResponse](https://user-images.githubusercontent.com/54988134/225172498-ca7db648-46d6-4d29-87a7-8cf0f5b2b14a.PNG)
